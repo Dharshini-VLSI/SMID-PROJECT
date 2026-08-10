@@ -1,0 +1,10 @@
+VCD info: dumpfile alu.vcd opened for output.
+Time=0 | Opcode=0000 | BitSel=00 | A=        10 | B=         5 | Out=        15
+Time=10 | Opcode=0001 | BitSel=00 | A=        10 | B=         5 | Out=         5
+Time=20 | Opcode=0010 | BitSel=00 | A=        10 | B=         5 | Out=        50
+Time=30 | Opcode=0011 | BitSel=00 | A=        10 | B=         5 | Out=        20
+Time=40 | Opcode=0100 | BitSel=00 | A=        10 | B=         5 | Out=         0
+Time=50 | Opcode=0101 | BitSel=00 | A=        10 | B=         5 | Out=        15
+Time=60 | Opcode=0110 | BitSel=00 | A=        10 | B=         5 | Out=        15
+Time=70 | Opcode=0111 | BitSel=00 | A=        10 | B=         5 | Out=4294967285
+alu_tb.v:68: $finish called at 80 (1s)

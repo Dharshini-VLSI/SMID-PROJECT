@@ -1,0 +1,13 @@
+VCD info: dumpfile program_counter.vcd opened for output.
+FETCH      : PC =   0
+DECODE     : PC =   0
+EXECUTE    : PC =   0
+MEMORY     : PC =   0
+WRITE BACK : PC =   1
+--------------------------
+FETCH      : PC =   1
+DECODE     : PC =   1
+EXECUTE    : PC =   1
+MEMORY     : PC =   1
+WRITE BACK : PC =   2
+program_counter_tb.v:85: $finish called at 132 (1s)
